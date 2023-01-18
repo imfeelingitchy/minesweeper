@@ -1,0 +1,2 @@
+C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\ar.exe qc libminesweeper_lib.a CMakeFiles/minesweeper_lib.dir/Button.cpp.obj CMakeFiles/minesweeper_lib.dir/GameState.cpp.obj CMakeFiles/minesweeper_lib.dir/Tile.cpp.obj CMakeFiles/minesweeper_lib.dir/Toolbox.cpp.obj
+C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\ranlib.exe libminesweeper_lib.a
